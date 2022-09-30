@@ -4,4 +4,4 @@ Aplicacion basica donde se contruye una pantalla basica para que los estudiantes
 
 **Resultado final **
 
-![](https://i.imgur.com/vUJ3S33.png)
+![](https://i.imgur.com/JXPI0sT.png)
