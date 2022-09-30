@@ -1,16 +1,7 @@
-# layout_basico_app
+# Mi Primer Layout En Flutter.
 
-A new Flutter project.
+Aplicacion basica donde se contruye una pantalla basica para que los estudiantes del programa Jovenes Creativos practiquen sus maquetaciones.
 
-## Getting Started
+**Resultado final **
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://i.imgur.com/vUJ3S33.png)
